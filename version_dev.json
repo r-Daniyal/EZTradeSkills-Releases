@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apkUrl": "https://github.com/r-Daniyal/EZTradeSkills-Releases/releases/download/v1.4/EZTS-1.4.apk",
-  "releaseNotes": "v1.3 — New Sidebar and Image-Reveal based gameplay mechanic",
+  "releaseNotes": "v1.4 — Image Reveal Fixes, Side panel fixes, updates to image, special tiles",
   "mandatory": false
 }
